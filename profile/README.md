@@ -43,6 +43,3 @@ We are in design-partner pilots — shaping the V1 release with the first few
 hiring teams. If your team would benefit from being one of them, reach out.
 
 - Web · [uniview.dev](https://uniview.dev)
-- Hiring partnerships · hire@uniview.dev
-- Engineer support · help@uniview.dev
-- Press · press@uniview.dev
